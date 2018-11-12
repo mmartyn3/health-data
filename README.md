@@ -1,2 +1,2 @@
 # health-data
-playground for visualising and analysis my own health data
+playground for visualising and analysis of my own health data
